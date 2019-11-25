@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1574673548 source:c:\users\vlad\desktop\codeblocks\temalabpdex1\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<utility>
+	<vector>
+
