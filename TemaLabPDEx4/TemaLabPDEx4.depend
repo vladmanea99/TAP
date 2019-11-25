@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574694860 source:c:\users\fmisecretariat6\desktop\temalabpdex4\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
